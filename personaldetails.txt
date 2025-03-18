@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Name : Suyashi Gupta
 Place : mbd
+=======
+Name : Shreya Mishra
+Place : Ghaziabad
+>>>>>>> f793790160444efb314806e99f35c9b5c6ac035d
